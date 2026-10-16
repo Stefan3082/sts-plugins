@@ -1,0 +1,1 @@
+{"name": "sts-plugins", "description": "Plugins STS fuer Claude", "owner": {"name": "STS"}, "plugins": [{"name": "sts-datev", "source": "./plugins/sts-datev", "description": "DATEV-Buchungsimport über Klardaten-API oder ASCII-Datei"}]}
